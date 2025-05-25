@@ -1,6 +1,8 @@
 # CI-Polimi-Notes
 Heavily annotated slides about Computing infrastructures course (CI) at Polimi.
 
+### [Download notes](https://github.com/curiosissimoz/CI-Polimi-Notes/archive/refs/heads/main.zip)
+
 ## Why these notes?
 The slides provided by instructors are often too concise and, in some cases, completely useless.  
 **How could slides made of only images or with just one sentence help me?**
